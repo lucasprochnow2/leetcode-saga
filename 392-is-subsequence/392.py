@@ -45,6 +45,7 @@ class Solution:
 Nesta solução faz o loop enquanto os ponteiro percorrem os dois arrays
 No final compara se o ponteiro da primeira palavra é igual ao tamanho
 da palavra.
+https://leetcode.com/problems/is-subsequence/solutions/5101957/video-two-pointer-solution/?envType=study-plan-v2&envId=leetcode-75
 """
 class Solution2:
     def isSubsequence(self, s: str, t: str) -> bool:
